@@ -1,4 +1,4 @@
-# NMA
+# HetMNA
 
 Source code and datasets for 2021 paper: [***？？***](https://.pdf).
 
@@ -31,7 +31,7 @@ Take the dataset EN_DE(V1) as an example, the folder "pre " contains:
 
 ## Running
 
-For example, to run NMN on DBP15K (ZH-EN), use the following script:
+For example, to run HetMNA on DBP15K (ZH-EN), use the following script:
 ```
 python3 main.py --dataset DBP15k --lang zh_en
 ```
