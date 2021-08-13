@@ -25,8 +25,9 @@ Take the dataset EN_DE(V1) as an example, the folder "pre " contains:
 
 * Python>=3.7
 * pytorch>=1.7.0
-* Scipy
+* tensorboardX>=2.1.0
 * Numpy
+* json
 
 
 ## Running
