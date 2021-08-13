@@ -32,11 +32,11 @@ Take the dataset EN_DE(V1) as an example, the folder "pre " contains:
 
 ## Running
 
-For example, to run MHNA model on WN31-15K and DBP-15K, use the following script:
+To run MHNA model on WN31-15K and DBP-15K, use the following script:
 ```
 python3 align_exc_15K.py
 ```
-For example, to run MHNA model DWY100K, use the following script:
+To run MHNA model DWY100K, use the following script:
 ```
 python3 align_exc_DWY100K.py
 ```
