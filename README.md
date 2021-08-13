@@ -1,12 +1,12 @@
-# HetMNA
+# MHNA
 
-Source code and datasets for 2021 paper: [***？？***](https://.pdf).
+Source code and datasets for 2021 paper: [***Multi-Heterogeneous Neighborhood-Aware for Knowledge Graphs Alignment***]
 
 ## Datasets
 
-> Please first download the datasets [here](??) and extract them into `data/` directory.
+> Please first download the datasets [here](https://www.jianguoyun.com/p/DegoGgMQ4vHdCRin8oUE) and extract them into `datasets/` directory.
 
-Initial datasets WN31-15K, DBP15K and DWY100K are from [OpenEA](https://github:com/nju-websoft/OpenEA) and [JAPE](https://github.com/nju-websoft/JAPE).
+Initial datasets WN31-15K and DBP-15K are from [OpenEA](https://github:com/nju-websoft/OpenEA) and [JAPE](https://github.com/nju-websoft/JAPE).
 
 Initial datasets DWY100K is from  [BootEA](https://github.com/nju-websoft/BootEA) and [MultiKE](https://github.com/nju-websoft/MultiKE).
 
@@ -31,18 +31,21 @@ Take the dataset EN_DE(V1) as an example, the folder "pre " contains:
 
 ## Running
 
-For example, to run HetMNA on DBP15K (ZH-EN), use the following script:
+For example, to run MHNA model on WN31-15K and DBP-15K, use the following script:
 ```
-python3 main.py --dataset DBP15k --lang zh_en
+python3 align_exc_15K.py
 ```
-
+For example, to run MHNA model DWY100K, use the following script:
+```
+python3 align_exc_DWY100K.py
+```
 
 > Due to the instability of embedding-based methods, it is acceptable that the results fluctuate a little bit (±1%) when running code repeatedly.
 
-> If you have any difficulty or question in running code and reproducing expriment results, please email to caiws@m.scnu.edu.cn.
+> If you have any difficulty or question in running code and reproducing expriment results, please email to cwswork@qq.com.
 
 ## Citation
 
 If you use this model or code, please cite it as follows:
 
-*Weishan Cai, Yizhao Wang, Shun Mao, Jieyu Zhan and Yuncheng Jiang. ??. 2021.*
+*Weishan Cai, Yizhao Wang, Shun Mao, Jieyu Zhan and Yuncheng Jiang. Multi-Heterogeneous Neighborhood-Aware for Knowledge Graphs Alignment. 2021.*
