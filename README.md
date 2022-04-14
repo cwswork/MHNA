@@ -1,6 +1,6 @@
 # MHNA
 
-Source code and datasets for 2021 paper: [***Multi-Heterogeneous Neighborhood-Aware for Knowledge Graphs Alignment***]
+Source code and datasets for 2022 paper: [***Multi-Heterogeneous Neighborhood-Aware for Knowledge Graphs Alignment, IPM, 2022***]
 
 ## Datasets
 
@@ -49,4 +49,4 @@ python3 align_exc_DWY100K.py
 
 If you use this model or code, please cite it as follows:
 
-*Weishan Cai, Yizhao Wang, Shun Mao, Jieyu Zhan and Yuncheng Jiang. Multi-Heterogeneous Neighborhood-Aware for Knowledge Graphs Alignment. 2021.*
+*Weishan Cai, Yizhao Wang, Shun Mao, Jieyu Zhan and Yuncheng Jiang. Multi-heterogeneous neighborhood-aware for knowledge graphs alignment. Information Processing & Management, 2022, 59(1): 102790.
