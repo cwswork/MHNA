@@ -4,7 +4,7 @@ Source code and datasets for 2022 paper: [***Multi-Heterogeneous Neighborhood-Aw
 
 ## Datasets
 
-> Please first download the datasets [here](https://www.jianguoyun.com/p/DegoGgMQ4vHdCRin8oUE) and extract them into `datasets/` directory.
+> Please first download the datasets [here](https://www.jianguoyun.com/p/DY8iIAsQ2t_lCBjK3oUEIAA) and extract them into `datasets/` directory.
 
 Initial datasets WN31-15K and DBP-15K are from [OpenEA](https://github:com/nju-websoft/OpenEA) and [JAPE](https://github.com/nju-websoft/JAPE).
 
